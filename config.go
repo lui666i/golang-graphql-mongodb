@@ -13,5 +13,5 @@ var config = configModel{
 	mongoDb:     "react-recipes",                                        // DB name
 	tokenSecret: "secret",                                               // Secret to use in Tokens
 	tokenExp:    "1h",                                                   // Expiration of Token
-	serveUri:    ":4444",                                                // Serve
+	serveUri:    ":53567",                                                // Serve
 }
